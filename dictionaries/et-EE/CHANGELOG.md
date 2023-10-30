@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-et-ee-v3.0.0...@cspell/dict-et-ee@4.0.0) (2023-10-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Convert et-EE license to LGPL 3.0 ([#2624](https://github.com/mwarres/cspell-dicts/issues/2624))
+
+### Features
+
+* Convert et-EE license to LGPL 3.0 ([#2624](https://github.com/mwarres/cspell-dicts/issues/2624)) ([ca1974b](https://github.com/mwarres/cspell-dicts/commit/ca1974b547648e7c85ce4aba22a1f008bd23c8f9))
+
+
+### Updates and Bug Fixes
+
+* rebuild Estonian ([#2337](https://github.com/mwarres/cspell-dicts/issues/2337)) ([d27cb70](https://github.com/mwarres/cspell-dicts/commit/d27cb70927043e51c964edd85e21589d876add68))
+* Update dictionary build script and re-build ([#2334](https://github.com/mwarres/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/mwarres/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-et-ee@2.0.9...@cspell/dict-et-ee@3.0.0) (2023-10-11)
 
 

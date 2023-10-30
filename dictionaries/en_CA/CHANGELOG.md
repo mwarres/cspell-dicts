@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.7](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-en-ca-v1.0.6...@cspell/dict-en-ca@1.0.7) (2023-10-30)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/mwarres/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/mwarres/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/mwarres/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/mwarres/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/mwarres/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/mwarres/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2662](https://github.com/mwarres/cspell-dicts/issues/2662)) ([2115190](https://github.com/mwarres/cspell-dicts/commit/2115190bae015aedb8832bc8384088ed36cfce9a))
+
 ## [1.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-ca@1.0.5...@cspell/dict-en-ca@1.0.6) (2023-10-20)
 
 

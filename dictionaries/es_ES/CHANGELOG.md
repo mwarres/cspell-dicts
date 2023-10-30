@@ -30,6 +30,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [2.2.8](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-es-es-v2.2.7...@cspell/dict-es-es@2.2.8) (2023-10-30)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/mwarres/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/mwarres/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Update dictionary build script and re-build ([#2334](https://github.com/mwarres/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/mwarres/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+
 ## [2.2.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-es-es@2.2.6...@cspell/dict-es-es@2.2.7) (2023-10-11)
 
 
