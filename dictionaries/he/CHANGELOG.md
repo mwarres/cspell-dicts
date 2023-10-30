@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-he-v3.0.0...@cspell/dict-he@4.0.0) (2023-10-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rebuild Hebrew dictionary ([#2349](https://github.com/mwarres/cspell-dicts/issues/2349))
+
+### Features
+
+* Rebuild Hebrew dictionary ([#2349](https://github.com/mwarres/cspell-dicts/issues/2349)) ([50ab8de](https://github.com/mwarres/cspell-dicts/commit/50ab8def9ee8eb62d56988945e6d23551ff8dbe2))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-he@2.0.0...@cspell/dict-he@3.0.0) (2023-07-20)
 
 

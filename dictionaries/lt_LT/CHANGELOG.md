@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-lt-lt-v3.0.0...@cspell/dict-lt-lt@4.0.0) (2023-10-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/mwarres/cspell-dicts/issues/2440))
+
+### Features
+
+* Upgrade lt_LT Dictionary ([#2440](https://github.com/mwarres/cspell-dicts/issues/2440)) ([5a4960c](https://github.com/mwarres/cspell-dicts/commit/5a4960c29167f7d0a56df281e3a31ea466dc68c3))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-lt-lt@2.0.0...@cspell/dict-lt-lt@3.0.0) (2023-08-31)
 
 

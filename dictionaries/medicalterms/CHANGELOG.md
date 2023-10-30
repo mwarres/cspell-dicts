@@ -22,6 +22,25 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.0](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-medicalterms-v4.1.0...@cspell/dict-medicalterms@5.0.0) (2023-10-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Medical Terms Dictionary ([#2439](https://github.com/mwarres/cspell-dicts/issues/2439))
+
+### Features
+
+* Create Latvian Dict ([#2491](https://github.com/mwarres/cspell-dicts/issues/2491)) ([78f4658](https://github.com/mwarres/cspell-dicts/commit/78f4658014619fda4f71897a1a7604ebd5039474))
+* Upgrade Medical Terms Dictionary ([#2439](https://github.com/mwarres/cspell-dicts/issues/2439)) ([6e26d00](https://github.com/mwarres/cspell-dicts/commit/6e26d001f4795bf2c5da698aba3c71acb088aecf))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2450](https://github.com/mwarres/cspell-dicts/issues/2450)) ([4878d59](https://github.com/mwarres/cspell-dicts/commit/4878d59317ea7249886d2ef172c197e0c2d765ed))
+* Workflow Bot -- Build Dictionaries ([#2452](https://github.com/mwarres/cspell-dicts/issues/2452)) ([cb73c09](https://github.com/mwarres/cspell-dicts/commit/cb73c09cf3a6a7f1edbc75ea0da6d441b972b6d7))
+* Workflow Bot -- Build Dictionaries ([#2492](https://github.com/mwarres/cspell-dicts/issues/2492)) ([fe9df54](https://github.com/mwarres/cspell-dicts/commit/fe9df5449e89b1f4b26d322508c60d47e5ae9868))
+
 ## [4.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-medicalterms@4.0.0...@cspell/dict-medicalterms@4.1.0) (2023-09-12)
 
 

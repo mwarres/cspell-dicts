@@ -22,6 +22,22 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-scientific-terms-us-v3.0.0...@cspell/dict-scientific-terms-us@4.0.0) (2023-10-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Scientific Terms ([#2346](https://github.com/mwarres/cspell-dicts/issues/2346))
+
+### Features
+
+* Update Scientific Terms ([#2346](https://github.com/mwarres/cspell-dicts/issues/2346)) ([ee8ac58](https://github.com/mwarres/cspell-dicts/commit/ee8ac5825e777892b7d6c703a4d3995f6e44b456))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2348](https://github.com/mwarres/cspell-dicts/issues/2348)) ([ffcc376](https://github.com/mwarres/cspell-dicts/commit/ffcc37673cb4481b7bd0df72ace3a010f7a051c5))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scientific-terms-us@2.0.0...@cspell/dict-scientific-terms-us@3.0.0) (2023-07-19)
 
 

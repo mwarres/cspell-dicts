@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.5](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-golang-v6.0.4...@cspell/dict-golang@6.0.5) (2023-10-30)
+
+
+### Updates and Bug Fixes
+
+* add GOPATH to go.txt add Tencent to companies.txt ([#2225](https://github.com/mwarres/cspell-dicts/issues/2225)) ([d7d4448](https://github.com/mwarres/cspell-dicts/commit/d7d4448b165a9984657bc4a5108df23214989581))
+* Workflow Bot -- Build Dictionaries ([#2228](https://github.com/mwarres/cspell-dicts/issues/2228)) ([2b4f727](https://github.com/mwarres/cspell-dicts/commit/2b4f7276aac738eac0d74123b2e9222dc66f565b))
+* Workflow Bot -- Build Dictionaries ([#2567](https://github.com/mwarres/cspell-dicts/issues/2567)) ([cfef8b2](https://github.com/mwarres/cspell-dicts/commit/cfef8b2ef34a301e33d725ba91ec9555b53d5927))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/mwarres/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/mwarres/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+
 ## [6.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.3...@cspell/dict-golang@6.0.4) (2023-10-18)
 
 

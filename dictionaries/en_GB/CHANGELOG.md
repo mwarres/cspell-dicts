@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.26](https://github.com/mwarres/cspell-dicts/compare/@cspell/dict-en-gb-v4.1.25...@cspell/dict-en-gb@4.1.26) (2023-10-30)
+
+
+### Updates and Bug Fixes
+
+* Make license documentation consistent ([#2628](https://github.com/mwarres/cspell-dicts/issues/2628)) ([0dfc5e9](https://github.com/mwarres/cspell-dicts/commit/0dfc5e918d475a9694ce64bdc74c473d6097af62))
+* Update dictionary build script and re-build ([#2334](https://github.com/mwarres/cspell-dicts/issues/2334)) ([0847cfc](https://github.com/mwarres/cspell-dicts/commit/0847cfc9623018940e7761e08eeba0ec7c0a320e))
+* Workflow Bot -- Build Dictionaries ([#2196](https://github.com/mwarres/cspell-dicts/issues/2196)) ([e86685c](https://github.com/mwarres/cspell-dicts/commit/e86685cf64591ee750b778ffe881f36e08f3bb61))
+* Workflow Bot -- Build Dictionaries ([#2287](https://github.com/mwarres/cspell-dicts/issues/2287)) ([ae6d819](https://github.com/mwarres/cspell-dicts/commit/ae6d819c824aab9eaa9d405b433582c377a713e1))
+* Workflow Bot -- Build Dictionaries ([#2405](https://github.com/mwarres/cspell-dicts/issues/2405)) ([9f30dca](https://github.com/mwarres/cspell-dicts/commit/9f30dca31e17b9fc68ff5815c100b3c062ccdc0a))
+* Workflow Bot -- Build Dictionaries ([#2410](https://github.com/mwarres/cspell-dicts/issues/2410)) ([f5e7365](https://github.com/mwarres/cspell-dicts/commit/f5e73652dbfa00d8c160588516520627fa80eb2a))
+* Workflow Bot -- Build Dictionaries ([#2433](https://github.com/mwarres/cspell-dicts/issues/2433)) ([1ef66fd](https://github.com/mwarres/cspell-dicts/commit/1ef66fde5d66a73aa76939d8642e9754e2995d19))
+* Workflow Bot -- Build Dictionaries ([#2457](https://github.com/mwarres/cspell-dicts/issues/2457)) ([e6290ec](https://github.com/mwarres/cspell-dicts/commit/e6290ecc15796f1dcdc0711da61de572c775d1ac))
+* Workflow Bot -- Build Dictionaries ([#2607](https://github.com/mwarres/cspell-dicts/issues/2607)) ([5207d82](https://github.com/mwarres/cspell-dicts/commit/5207d8222154457dc7fd24747db5de8175f87d84))
+* Workflow Bot -- Build Dictionaries ([#2657](https://github.com/mwarres/cspell-dicts/issues/2657)) ([7e7190d](https://github.com/mwarres/cspell-dicts/commit/7e7190d1165246cf5fd85c58bd52531b6b722958))
+* Workflow Bot -- Build Dictionaries ([#2662](https://github.com/mwarres/cspell-dicts/issues/2662)) ([2115190](https://github.com/mwarres/cspell-dicts/commit/2115190bae015aedb8832bc8384088ed36cfce9a))
+
 ## [4.1.25](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.24...@cspell/dict-en-gb@4.1.25) (2023-10-20)
 
 
